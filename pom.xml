@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.equalexperts</groupId>
 	<artifactId>mars-rover-kata</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>mars-rover-kata</name>
 	<description>Driving Module for Mars Rover Kata</description>
 	<properties>
